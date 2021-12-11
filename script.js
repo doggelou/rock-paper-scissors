@@ -6,7 +6,6 @@ function game() {
   let playerWins = 0;
   let computerWins = 0;
   let ties = 0;
-  // let playerResult;
   let resultsMessage;
   const winMessage = "You have beaten the computer";
   const lossMessage = "You lost against the computer";
